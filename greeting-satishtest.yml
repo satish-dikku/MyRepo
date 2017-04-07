@@ -15,7 +15,7 @@ security:
 
 
   greeting:
-    displayFortune: false # <----Change to true
+    displayFortune: true # <----Change to true
 
 
-  quoteServiceURL: http://quote-service-qa.cfapps.io/quote
+  quoteServiceURL: http://quote-service-dev.cfapps.io/quote
