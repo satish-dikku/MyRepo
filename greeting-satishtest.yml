@@ -14,8 +14,4 @@ security:
         pivotal: DEBUG
 
 
-  greeting:
-    displayFortune: false # <----Change to true
-
-
-  quoteServiceURL: http://quote-service-qa.cfapps.io/quote
+  
